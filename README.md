@@ -1,8 +1,4 @@
-Perfect 👍
-Main tumhe **GitHub-ready, fully structured, professional `README.md`** de raha hoon —
-tum **direct copy-paste** karke GitHub repo me daal sakte ho.
 
-Language simple rakhi hai, **exam + GitHub dono ke liye perfect**.
 
 ---
 
